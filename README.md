@@ -10,4 +10,4 @@ Integrantes da equipe para a execução do Trabalho
 
 > Évany Gabrielly Maciel de Lima
 
-> Rafael Alves 
+> Rafael Alves De Araújo
