@@ -2,6 +2,7 @@
 idades. Os nomes devem ser armazenados em um vetor, e as idades em um outro
 vetor. Depois, mostrar na tela o nome da pessoa mais velha.
 
+---------------------------------------------------------------------------------------
 
 def pessoa_mais_velha(nomes, idades):
     indice_mais_velho = idades.index(max(idades))
@@ -20,3 +21,5 @@ for i in range(n):
 
 mais_velho = pessoa_mais_velha(nomes, idades)
 print(f"A pessoa mais velha é: {mais_velho}")
+
+---------------------------------------------------------------------------------------
