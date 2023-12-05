@@ -5,6 +5,7 @@ acima da velocidade permitida (considere apenas números inteiros). Se a
 velocidade do motorista estiver dentro do limite, o programa deve informar que não
 há multa. */ 
 
+---------------------------------------------------------------------------------------
 
 #include <stdio.h>
 
@@ -24,3 +25,5 @@ int main() {
 
     return 0;
 }
+
+---------------------------------------------------------------------------------------
